@@ -9,8 +9,8 @@ length of your sprite sheet.
 ![Example](https://i.imgur.com/4XPX9rO.gifv)
 
 SpriteModel requires
-![SFML](https://www.sfml-dev.org/)
-![Imgui](https://github.com/ocornut/imgui)
-![imgui-sfml](https://github.com/ocornut/imgui)
+[SFML](https://www.sfml-dev.org/)
+[Imgui](https://github.com/ocornut/imgui)
+[imgui-sfml](https://github.com/ocornut/imgui)
 
 follow their respective instructions to link the libraries to this project.
